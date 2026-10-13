@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/ca-medical-exclusions",
   "title": "Ca Medical Exclusions",
-  "description": "California DHCS Medi-Cal Suspended and Ineligible (S&I) Provider List",
-  "version": "0.1.0",
+  "description": "California DHCS Medi-Cal Suspended and Ineligible (S&I) Provider List screening — fleet #2805, the…",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ca-medical-exclusions",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ca-medical-exclusions",
