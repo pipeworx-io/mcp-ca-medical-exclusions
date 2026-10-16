@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ca-medical-exclusions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "California DHCS Medi-Cal Suspended and Ineligible (S&I) Provider List screening — fleet #2805, the second state exclusion pack after mcps/ny-omig-exclusions (fleet #2788).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c8e0c6c56b57956f6871f2b5f77dc565c6df5e9336f605502d4c7a05a5680793",
-    "sourceCommit": "3723e46c6d115bd4a1fd2175e6bf758555e7cb50"
+    "sourceHash": "v1-b0d1f2d32b208edd523c2a29be74e73ec4215f680c2a25c1704b84b93d78cfa0",
+    "sourceCommit": "a03f96ed672b8c149593c64ecbf30280cabf084c"
   }
 }
